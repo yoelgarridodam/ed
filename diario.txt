@@ -1,0 +1,14 @@
+16/09/2019
+
+Hablamos sobre git, sus usos e instalación.
+Hablamos sobre las versiones de ubuntu y sus actualizaciones. Usamos la 16.04
+Usos del terminal y nautilus
+Creamos cuenta de github, un repositorio público y vemos que es gitignore
+commit=versión
+Clonamos nuestro repositorio remoto para tener una copia local
+~=home de tu usuario
+https://github.com/yoelgarridodam/ed.git --> repositorio
+git clone https://github.com/yoelgarridodam/ed.git --> clon del repositorio al local
+Creamos diario.txt
+git status
+git add
