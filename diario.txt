@@ -10,5 +10,23 @@ Clonamos nuestro repositorio remoto para tener una copia local
 https://github.com/yoelgarridodam/ed.git --> repositorio
 git clone https://github.com/yoelgarridodam/ed.git --> clon del repositorio al local
 Creamos diario.txt
-git status
-git add
+git status --> comprobar el estado del repositorio local
+git add. --> poner todo en seguimiento
+git add archivo --> poner archivo en seguimiento
+git reset HEAD --> quitar seguimiento
+git config --global user.name USERNAME --> establecer el usuario para el acceso al repositorio online
+git config --global user.email EMAIL --> establecer el mail para el acceso al repositorio online
+git commit -m "descripcion de lo que subimos"
+git log --> nos muestra los cambios hechos en el repositorio y quien los ha hecho
+git config --global push.default simple --> elegir la configuración para el git push
+git push --> sincronizar el repositorio local y el online
+
+19/09/2019
+
+Usamos el comando history para ver los comandos usados la clase anterior y Ctrl+R para buscar entre los comandos.
+git branch --> ver las diferentes ramas en el repositorio
+git bracnh -vv --> ver la versión del repositorio local y la descripción de esta
+git checkout --> cambiar a la versión del repositorio local
+git checkout -b --> Crear una nueva rama
+git checkout master --> ir a la última versión
+git diff --> Se usa para ver los cambios añadidos en la versión
