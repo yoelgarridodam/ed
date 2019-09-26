@@ -30,3 +30,27 @@ git checkout --> cambiar a la versión del repositorio local
 git checkout -b --> Crear una nueva rama
 git checkout master --> ir a la última versión
 git diff --> Se usa para ver los cambios añadidos en la versión
+
+23/09/2019
+
+Empezamos a trabajar con VirtualBox y creamos una máquina virtual de Linux llamada serpisdam.
+Cambiamos las características de la máquina virtual a:
+- 2GB RAM
+- 20GB Disco
+- 2 Procesadores
+- Idioma: Español
+- Zona horaria de España
+- Nombre del equipo: serpisdam
+- Usuario: administrador
+- Contraseña: sistemas
+
+Usamos el comando de "sudo -i" para usar los privilegios del administrador del equipo.
+pwd --> Nos dice el directorio en el que nos encontramos
+apt update --> Actualiza la lista de paquetes disponibles
+apt full-upgrade --> Instala los paquetes que nos mostró el apt update
+gcc -o holamundo (nombre de salida) holamundo.c (fichero a compilar)
+cat holamundo.c (nombre de archivo) --> Lee el archivo de gedit y lo imprime en el terminal
+./holamundo (nombre de salida) --> Ejecuta el programa
+gcc -E holamundo.c --> Resuelve las directrices de preprocesamiento
+
+
