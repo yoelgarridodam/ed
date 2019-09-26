@@ -53,4 +53,15 @@ cat holamundo.c (nombre de archivo) --> Lee el archivo de gedit y lo imprime en 
 ./holamundo (nombre de salida) --> Ejecuta el programa
 gcc -E holamundo.c --> Resuelve las directrices de preprocesamiento
 
+26/09/2019
+
+Repasamos como funciona el proceso de compilación de C paso por paso.
+java -version --> Nos dice la versión de Java instalada de nuestro equipo. (JRE)(Ejecutar)
+javac -version --> Nos dice la versión de Java instalada de nuestro equipo. (JDK)(Compilar)
+JRE --> Java Runtime Enviroment 
+JDK --> Java Development Kit
+update-alternatives --list java --> Nos deja ver la alternativas a la hora de actualizar nuestras versiones de Java.
+update-alternatives --config java --> Elegimos el Java que vamos a utilizar por defecto.
+update-alternatives --config javac --> Elegimos el Java que vamos a utilizar por defecto.
+
 
