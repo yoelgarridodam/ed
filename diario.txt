@@ -64,4 +64,18 @@ update-alternatives --list java --> Nos deja ver la alternativas a la hora de ac
 update-alternatives --config java --> Elegimos el Java que vamos a utilizar por defecto.
 update-alternatives --config javac --> Elegimos el Java que vamos a utilizar por defecto.
 
+30/09/2019
+
+Empezamos a trabajar con Eclipse y escribimos algunas líneas.
+Hacemos el archivo de HolaMundo, lo compilamos usando el comando javac y lo ejecutamos mediante el terminal.
+Vemos algunas de las ventajas de usar un entorno de desarrollo.
+Creamos un Java Proyect de HolaMundo.
+
+07/10/2019
+
+Recordamos como usar github y algunos de sus comandos.
+Vemos el comando de git fetch --> con esto podemos comprobar las nuevas versión del repositorio online antes de descargarlo.
+Vemos el funcionamiento de los workspaces de eclipse y como importar proyectos a un nuevo workspace.
+Vemos los diferentes tipos de datos de java como: float, double, boolean, char, long...
+Creamos la clase JAdivina en java.
 
