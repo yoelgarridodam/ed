@@ -79,3 +79,11 @@ Vemos el funcionamiento de los workspaces de eclipse y como importar proyectos a
 Vemos los diferentes tipos de datos de java como: float, double, boolean, char, long...
 Creamos la clase JAdivina en java.
 
+10/10/2019
+
+sudo -i --> Entrar como administrador en el terminal de Ubuntu
+apt update --> Comprobar actualizaciones disponibles para Ubuntu
+apt full-upgrade --> Actualiza todo lo que tenga una disponible
+apt list (nombre a buscar) --> Lista todos los archivos con el nombre puesto en el comando.
+apt install openjdk-8-jdk --> Instalamos el jdk para poder usar eclipse
+apt install git --> Instalamos git
