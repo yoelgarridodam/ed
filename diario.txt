@@ -87,3 +87,12 @@ apt full-upgrade --> Actualiza todo lo que tenga una disponible
 apt list (nombre a buscar) --> Lista todos los archivos con el nombre puesto en el comando.
 apt install openjdk-8-jdk --> Instalamos el jdk para poder usar eclipse
 apt install git --> Instalamos git
+
+14/10/2019
+
+Vemos bucles while en java y variables de tipo valor o referencia.
+Usamos la función de breakpoint, debug y step over de Eclipse.
+Vemos el JSuma paso a paso mediante la opción de debug e intentamos cosas con el JAdivina.
+Empezamos el ejercicio JVector usando un array.
+Recorremos un array con un for.
+
