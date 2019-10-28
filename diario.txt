@@ -101,3 +101,6 @@ Recorremos un array con un for.
 Repasamos el uso de un array y lo vemos más a fondo.
 Usamos un bucle para recorrer el array.
 
+28/10/2019
+
+Seguimos trabajando con el JVector y usamos bucles para recorrer el array.
