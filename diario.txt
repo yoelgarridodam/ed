@@ -96,3 +96,8 @@ Vemos el JSuma paso a paso mediante la opción de debug e intentamos cosas con e
 Empezamos el ejercicio JVector usando un array.
 Recorremos un array con un for.
 
+24/10/2019
+
+Repasamos el uso de un array y lo vemos más a fondo.
+Usamos un bucle para recorrer el array.
+
