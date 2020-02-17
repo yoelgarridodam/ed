@@ -1,0 +1,6 @@
+/home/yoealm/ed/MonodevelopProyectos/CCalculadora/CCalculadora/CCalculadora/bin/Debug/CCalculadora.exe
+/home/yoealm/ed/MonodevelopProyectos/CCalculadora/CCalculadora/CCalculadora/bin/Debug/CCalculadora.pdb
+/home/yoealm/ed/MonodevelopProyectos/CCalculadora/CCalculadora/CCalculadora/obj/x86/Debug/CCalculadora.csprojAssemblyReference.cache
+/home/yoealm/ed/MonodevelopProyectos/CCalculadora/CCalculadora/CCalculadora/obj/x86/Debug/CCalculadora.csproj.CoreCompileInputs.cache
+/home/yoealm/ed/MonodevelopProyectos/CCalculadora/CCalculadora/CCalculadora/obj/x86/Debug/CCalculadora.exe
+/home/yoealm/ed/MonodevelopProyectos/CCalculadora/CCalculadora/CCalculadora/obj/x86/Debug/CCalculadora.pdb

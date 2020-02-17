@@ -1,20 +1,19 @@
 ﻿<Properties StartupConfiguration="{5B8BEC21-D3C2-4960-B620-18425651DBB1}|Default">
   <MonoDevelop.Ide.ItemProperties.CBingo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CTabla/Properties/Bombo.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CTabla/MainWindow.cs">
     <Files>
-      <File FileName="CTabla/Panel.cs" Line="26" Column="41" />
+      <File FileName="CTabla/Panel.cs" Line="27" Column="27" />
       <File FileName="CTabla/Program.cs" Line="4" Column="13" />
-      <File FileName="CTabla/Properties/Bombo.cs" Line="21" Column="1" />
-      <File FileName="CTabla/MainWindow.cs" Line="26" Column="34" />
+      <File FileName="CTabla/Properties/Bombo.cs" Line="20" Column="57" />
+      <File FileName="CTabla/MainWindow.cs" Line="15" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CBingo" expanded="True">
             <Node name="CBingo" expanded="True">
-              <Node name="Properties" expanded="True">
-                <Node name="Bombo.cs" selected="True" />
-              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="MainWindow.cs" selected="True" />
             </Node>
           </Node>
         </State>
