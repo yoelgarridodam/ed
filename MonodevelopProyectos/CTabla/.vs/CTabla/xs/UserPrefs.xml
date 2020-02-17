@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{0FFAECFF-798E-49F5-85BC-6415DAC14964}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Proyecto1/MainWindow.cs">
+﻿<Properties StartupConfiguration="{598C0F7E-9571-40EF-BE57-60EC50B27BE8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../Projects/MainWindow.cs">
     <Files>
-      <File FileName="Proyecto1/Program.cs" Line="1" Column="1" />
-      <File FileName="Proyecto1/MainWindow.cs" Line="37" Column="21" />
+      <File FileName="CTabla/Program.cs" Line="7" Column="6" />
+      <File FileName="../../../Projects/MainWindow.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Proyecto1" expanded="True">
-            <Node name="Proyecto1" expanded="True">
+          <Node name="CTabla" expanded="True">
+            <Node name="CTabla" expanded="True">
               <Node name="MainWindow.cs" selected="True" />
             </Node>
           </Node>
@@ -16,8 +16,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Proyecto1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CTabla PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

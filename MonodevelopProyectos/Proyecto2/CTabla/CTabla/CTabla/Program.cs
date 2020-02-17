@@ -1,7 +1,7 @@
 ﻿using System;
 using Gtk;
 
-namespace CTabla
+namespace CBingo
 {
     class MainClass
     {

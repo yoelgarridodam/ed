@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{598C0F7E-9571-40EF-BE57-60EC50B27BE8}</ProjectGuid>
+    <ProjectGuid>{5B8BEC21-D3C2-4960-B620-18425651DBB1}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>CTabla</RootNamespace>
     <AssemblyName>CTabla</AssemblyName>
@@ -64,6 +64,8 @@
     <Compile Include="gtk-gui\MainWindow.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Panel.cs" />
+    <Compile Include="Properties\Bombo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
