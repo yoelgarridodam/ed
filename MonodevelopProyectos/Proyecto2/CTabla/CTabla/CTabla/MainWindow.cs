@@ -10,10 +10,10 @@ public partial class MainWindow : Gtk.Window
     {
         Build();
         panel = new Panel(vBox1);
-        BJugar.Clicked += delegate
+        /*BJugar.Clicked += delegate
         {
             bombo.sacarBola();
-        };
+        };*/
     }
 
 

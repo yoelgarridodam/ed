@@ -1,0 +1,6 @@
+/home/yoealm/ed/MonodevelopProyectos/Proyecto2/CTabla/CTabla/CTabla/bin/Debug/CTabla.exe
+/home/yoealm/ed/MonodevelopProyectos/Proyecto2/CTabla/CTabla/CTabla/bin/Debug/CTabla.pdb
+/home/yoealm/ed/MonodevelopProyectos/Proyecto2/CTabla/CTabla/CTabla/obj/x86/Debug/CBingo.csprojAssemblyReference.cache
+/home/yoealm/ed/MonodevelopProyectos/Proyecto2/CTabla/CTabla/CTabla/obj/x86/Debug/CBingo.csproj.CoreCompileInputs.cache
+/home/yoealm/ed/MonodevelopProyectos/Proyecto2/CTabla/CTabla/CTabla/obj/x86/Debug/CTabla.exe
+/home/yoealm/ed/MonodevelopProyectos/Proyecto2/CTabla/CTabla/CTabla/obj/x86/Debug/CTabla.pdb

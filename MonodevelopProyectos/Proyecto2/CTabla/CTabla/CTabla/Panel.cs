@@ -32,7 +32,7 @@ namespace CBingo
         }
         public void Marcar(int numero)
         {
-            buttons[numero - 1].ModifyBg(StateType.Normal, new Gdk.Color(0, 200, 0));
+            buttons[numero - 1].ModifyBg(StateType.Normal, new Gdk.Color(100, 250, 200));
         }
     }
 }
