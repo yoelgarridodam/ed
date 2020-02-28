@@ -377,14 +377,18 @@ public partial class MainWindow
 		this.BSiete.Clicked += new global::System.EventHandler(this.OnBSieteClicked);
 		this.BOcho.Clicked += new global::System.EventHandler(this.OnBOchoClicked);
 		this.BNueve.Clicked += new global::System.EventHandler(this.OnBNueveClicked);
+		this.BDivision.Clicked += new global::System.EventHandler(this.OnBDivisionClicked);
 		this.BCuatro.Clicked += new global::System.EventHandler(this.OnBCuatroClicked);
 		this.BCinco.Clicked += new global::System.EventHandler(this.OnBCincoClicked);
 		this.BSeis.Clicked += new global::System.EventHandler(this.OnBSeisClicked);
+		this.BMultiplicacion.Clicked += new global::System.EventHandler(this.OnBMultiplicacionClicked);
 		this.BUno.Clicked += new global::System.EventHandler(this.OnBUnoClicked);
 		this.BDos.Clicked += new global::System.EventHandler(this.OnBDosClicked);
 		this.BTres.Clicked += new global::System.EventHandler(this.OnBTresClicked);
+		this.BResta.Clicked += new global::System.EventHandler(this.OnBRestaClicked);
 		this.BComa.Clicked += new global::System.EventHandler(this.OnBComaClicked);
 		this.BCero.Clicked += new global::System.EventHandler(this.OnBCeroClicked);
+		this.BIgual.Clicked += new global::System.EventHandler(this.OnBIgualClicked);
 		this.BSuma.Clicked += new global::System.EventHandler(this.OnBSumaClicked);
 	}
 }
